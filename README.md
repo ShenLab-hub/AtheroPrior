@@ -11,11 +11,11 @@ For each integration step, only the input filename (input_file_2) and the corres
 
 The same procedure was applied to integrate the following datasets:
 
-processed ATG_DR4_LXR_CIS
-processed TOX21_FXR_BLA_Antagonist_ch1
-processed TOX21_PPARg_BLA_Antagonist_ch1
-processed TOX21_PXR_agonist
-Predicted_concentration_in_human_blood
+processed ATG_DR4_LXR_CIS;
+processed TOX21_FXR_BLA_Antagonist_ch1;
+processed TOX21_PPARg_BLA_Antagonist_ch1;
+processed TOX21_PXR_agonist;
+Predicted_concentration_in_human_blood.
 
 This repository provides the script using the TOX21_PPARg_BLA_Antagonist_ch1 dataset as an example. The identical workflow was repeated for the remaining datasets.
 
