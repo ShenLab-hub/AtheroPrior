@@ -17,6 +17,8 @@ processed TOX21_PPARg_BLA_Antagonist_ch1;
 processed TOX21_PXR_agonist;
 Predicted_concentration_in_human_blood.
 
+Ultimately, all datasets were integrated into a single file, integrated_dataset.csv, which served as the input for ToxPi analysis.
+
 This repository provides the script using the TOX21_PPARg_BLA_Antagonist_ch1 dataset as an example. The identical workflow was repeated for the remaining datasets.
 
 ## Data sources
